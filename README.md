@@ -96,14 +96,3 @@ For NVIDIA GPUs, pick the CUDA wheel from the official PyTorch site and install 
 * **Slow FPS on GPU** — build facenet-pytorch with `OMP_NUM_THREADS=1` and ensure you launched the CUDA-enabled wheel of torch.
 
 ---
-
-## 5 . License
-
-MIT (see `LICENSE`).
-```
-
----
-
-### Citations
-
-* Import list and code structure inferred from `00_camtest.py` citeturn0file0, `01_detection.py` citeturn0file1, `02_blurring.py` citeturn0file2, and `test.py` citeturn0file3.
